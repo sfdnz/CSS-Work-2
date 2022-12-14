@@ -1,0 +1,55 @@
+.box {
+       background-color: #EEEEEE;
+       text-align: center;
+       height: 62px; 
+}
+
+.main{
+        margin: 0 auto;
+        width: 90%;
+}
+
+
+.box2{                  
+        background-color: #7EE5DA;
+        height: 67px;
+        width: 37%;
+        float: left; 
+        text-align: center;
+        margin: 0.25% 0.2% 0.2% 0;     
+        padding-top: 10px;                
+}
+
+
+.box3{
+        background-color: #70CCC2;
+        height: 71px;
+        width: 19.3%;
+        float: left;
+        text-align: center;
+        margin: 0.25% 0.2% 0.2% 0;
+        padding-top: 5px;
+        font-size: 13px;
+}
+
+
+.box4{
+        background-color: #62B3AA;
+        height: 76px;
+        width: 43.2%;
+        float: left;
+        text-align: center;
+        margin: 0.25% 0;
+        font-size: 13px;
+}
+
+
+.copy{
+        text-align: center;
+        font-size: 13px;
+        float: left;
+        height: 50px;
+        width: 100%;
+        margin-top: 4px;
+        padding-top: 12px;
+}
